@@ -1,9 +1,18 @@
-# Привет, я начинающий разработчик! 👋
+# 👋 Hi, I'm Aziz | Frontend Developer
 
-Здесь вы можете найти мои учебные проекты и код, который я пишу в процессе обучения.
+A passionate Frontend Developer focused on creating clean, responsive, and reliable web applications. I love solving logic puzzles, mastering JavaScript, and building project architectures from scratch.
 
-## 🚀 Обо мне:
--📕 Сейчас я активно изучаю: **JavaScript и веб-разработку**
--🎯 Моя цель: Стать Junior Frontend разработчиком
--💻 Мой стек технологий:
-JavaScript, HTML5, CSS3, Git, GitHub
+## 🛠️ Tech Stack & Tools
+* **Languages:** JavaScript (ES6+), HTML5, CSS3
+* **Tools & Technologies:** Git, GitHub, GitHub Actions, Fetch API, Flexbox
+
+## 🚀 Featured Projects
+* [🇰🇬 Kyrgyz Currency Checker](https://github.com) — Real-time currency conversion app with dynamic loading spinners and bulletproof `try...catch...finally` network error handling.
+* [📋 Interactive Kanban Board](https://github.com) — A state-managed project board featuring interactive event listeners, custom animations, and clean DOM manipulation.
+
+## 📈 My Goals
+* Currently sharpening my skills in advanced JavaScript (Closures, Event Loop, Array Methods).
+* Looking for a Junior Frontend Developer position where I can bring value and learn fast.
+
+📫 **How to reach me:** You can find my contact links here or check my pinned repositories below!
+
